@@ -2,7 +2,7 @@
 
 ## Passos para rodar o projeto
 
-`npm init -y`
+`npm init -y` 
 </br>
 `npm install mongoose express`
 </br>
