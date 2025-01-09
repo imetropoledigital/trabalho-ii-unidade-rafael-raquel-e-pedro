@@ -4,6 +4,6 @@
 
 `npm init -y`
 </br>
-`npm install mongoose`
+`npm install mongoose express`
 </br>
 `docker run -p 27017:27017 --name nosql-mongo -v mongo-data:/data/ -d mongo`
